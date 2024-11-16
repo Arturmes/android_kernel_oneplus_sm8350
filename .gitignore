@@ -148,9 +148,9 @@ x509.genkey
 /compile_commands.json
 
 # vendor device tree directories
-arch/arm/boot/dts/vendor
+#arch/arm64/boot/dts/vendor
 
 #
 #Ignoring Android.bp link file
 #
-Android.bp
+#Android.bp
